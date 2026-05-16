@@ -6,3 +6,4 @@ __pycache__/
 # IDE files
 .vscode/
 .idea/.DS_Store
+mlruns/
