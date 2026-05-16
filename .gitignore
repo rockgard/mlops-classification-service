@@ -1,0 +1,12 @@
+# Virtual Environment
+venv/
+__pycache__/
+*.pyc
+
+# Data and Artifacts (To be handled by DVC later)
+data/
+artifacts/
+
+# IDE files
+.vscode/
+.idea/
